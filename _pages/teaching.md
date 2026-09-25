@@ -28,7 +28,7 @@ author_profile: true
 This certificate is administered by the Center for Engaged Learning and Teaching (CELT) at Tulane University.
 It requires completion of the following 3-course sequence
 
-**CELT 7010: The Essentials of Teaching & Learning**
+##### CELT 7010: The Essentials of Teaching & Learning
 
 "This course is one of the series of 3 1-credit hour courses with this course being the first of the series.
 The nature of this course will comprise the theoretical underpinnings in effective teaching and learning. 
@@ -38,13 +38,13 @@ Students will investigate the science of learning, identify strategies of effect
 discuss ways to ensure inclusive and diverse classroom environments and the pedagogy or service learning. 
 The course will culminate with the writing of a Teaching Philosophy and creating a Teaching E-Porfolio."
 
-**CELT 7020: Practical Course Design & Teaching Skills**
+##### CELT 7020: Practical Course Design & Teaching Skills
 
 "This course building on the theories presented in CELT 7010, will focus on the practical 
 applications of course design, classroom management techniques, the appropriate inclusion of 
 technology and the development of learning-based assessments."
 
-**CELT 7030: Teaching Practicum**
+##### CELT 7030: Teaching Practicum
 
 "This course is designed to provide students feedback on actual teaching opportunities. 
 Some students may be the faculty of record for a course in their department, others 
