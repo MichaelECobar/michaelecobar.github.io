@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](/files/CV_Michael_Cobar_Teaching_Ref.pdf)
+[Download CV](/files/CV_Michael_Cobar_Ref.pdf)
 
 <iframe src="/files/CV_Michael_Cobar_Teaching_Ref.pdf" width="100%" height="800px" style="border: none;">
 </iframe>
