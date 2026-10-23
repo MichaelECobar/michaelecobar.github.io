@@ -6,7 +6,7 @@ author_profile: true
 ## Working Papers
 **Healthy Skepticism? Medical Mistrust and Health Behaviors [Job Market Paper]**
 
-Abstract: Currently under confidentiality review. Will update when review has concluded. 
+Abstract: Trust in the medical system has eroded substantially in recent years, yet its role as a determinant of health and health care use remains understudied. In this paper, I estimate the effect of medical mistrust on health behaviors and sources of health information using NielsenIQ Consumer Panel data. First, I use a causal forest strategy to predict heterogeneous changes in medical mistrust, drawing on plausibly exogenous variation arising from the COVID-19 pandemic. Then, I show that individuals with larger predicted increases in mistrust reduced their use of physicians for both medical treatment and health information and increased their reliance on natural or alternative treatments and online health information. These findings represent the first causal evidence that medical mistrust shapes patient decision-making across a broad, demographically diverse sample, with effects that persist even after accounting for education, income, and race. This shift away from clinical decision makers and toward online information and non-traditional treatments increases patients’ exposure to misinformation and to care that lacks professional oversight. Because mistrust operates independently of conventional socioeconomic factors, policies aimed at improving health care access such as reducing costs or expanding insurance coverage, may fail to address the trust problem driving these shifts.
 
 **Clearer Lungs, Clearer Minds? Analyzing the Effects of Tobacco 21 Laws on Youth Smoking Behavior and Mental Health**
 
