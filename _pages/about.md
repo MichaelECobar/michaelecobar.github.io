@@ -8,9 +8,8 @@ redirect_from:
 ---
 ## About Me
 
-I am a Ph.D. candidate at Tulane University expecting degree conferral in May 2027. I study the effects of non-health factors and policy on individual health behaviors and health outcomes. I am on the 2026-27 job market, and my job market paper analyzes the effects of medical mistrust on health behaviors at the individual-level. 
+I am a Ph.D. candidate at Tulane University expecting degree conferral in May 2027. My research fields are Health Economics, Behavioral Economics, and Applied Microeconomics. My research studies individuals’ health behaviors to speak toward broad economic questions around uncertainty and intertemporal choice in individual decision-making. I am on the 2026-27 job market, and my job market paper analyzes how individuals’ trust in the medical system shifts their health behaviors.
 
-<!-- [Download my CV](/files/Cobar_Michael_CV.pdf) -->
-[Download My CV](/files/CV_Michael_Cobar_Teaching_Ref.pdf)
+[Download My CV](/files/CV_Michael_Cobar_Ref.pdf)
 
 Contact: [mcobar@tulane.edu](mailto:mcobar@tulane.edu)
