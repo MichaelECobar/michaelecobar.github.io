@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](/files/CV_Michael_Cobar_Ref.pdf)
+[Download CV](/files/Cobar_Michael_CV.pdf)
 
-<iframe src="/files/CV_Michael_Cobar_Ref.pdf" width="100%" height="800px" style="border: none;">
+<iframe src="/files/Cobar_Michael_CV.pdf" width="100%" height="800px" style="border: none;">
 </iframe>
 
 <!--[Download CV](/files/Cobar_Michael_CV.pdf)
